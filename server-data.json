@@ -1,16 +1,20 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "name": "roy",
+      "firstName": "Anastasiia",
+      "city": "india",
+      "phone": "45652",
+      "email": "mail@mail.ru"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 2,
+      "name": "sam",
+      "firstName": "Anastasiia",
+      "city": "wales",
+      "phone": "456",
+      "email": "mail@mail.ru"
     }
   ]
 }
